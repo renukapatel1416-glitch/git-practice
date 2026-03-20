@@ -1,0 +1,6 @@
+i am a fix file which will be used to fix a bug
+fixed another bug.
+
+fix message for pinkmode
+
+fix message for purplemode
